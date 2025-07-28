@@ -1,6 +1,4 @@
 
-
-````markdown
 # 🛡️ Python Port Scanner (Terminal-Based)
 
 A simple and effective terminal-based port scanner using Python sockets.  
